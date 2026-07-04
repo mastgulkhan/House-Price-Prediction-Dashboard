@@ -14,3 +14,10 @@ An interactive dashboard built using Microsoft Power BI, Jupyter Notebook, and E
 
 ## Author
 Mastgul Khan
+
+## How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/mastgulkhan/House-Price-Prediction-Dashboard.git
+   cd House-Price-Prediction-Dashboard
